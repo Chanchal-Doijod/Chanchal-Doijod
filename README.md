@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Chanchal Doijod</h1>
 <h3 align="center">A passionate full-stack developer from India, crafting end-to-end web solutions that bridge the gap between user experience and powerful backend logic. 💻🌍</h3>
 <p align="right">
-    <img align="right" alt="Coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+    <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanchal-doijod&label=Profile%20views&color=0e75b6&style=flat" alt="chanchal-doijod" /> </p>
